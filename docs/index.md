@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hey Sucker
 
 You can use the [editor on GitHub](https://github.com/Different-Engine-550/Different-Engine-550.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
